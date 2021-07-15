@@ -1,0 +1,27 @@
+java AveragePositives 1 1 1 1 1 1
+java AveragePositives 2 2 2 2 2 2
+
+java AveragePositives -1000 10000 0 5 2 1
+
+java AveragePositives -1000 -1 -1 -1 -1 -1
+
+["a", "b", "c", "longstring"], 3
+
+idea: scan array first, 1 element in array to return
+declare new array
+put strins in new array
+["longstring"]
+
+return_type name (params){
+
+}
+
+// declaring an int array
+int[] intArray = {5};
+int x = 5;
+
+int[] getAs(Pair[] array){
+	...
+}
+
+string is in a string -> substring
